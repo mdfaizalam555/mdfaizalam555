@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Faiz Alam</h1>
 <h3 align="center">Computer Science Engineering from India</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaizalam555&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaizalam555" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@mdfaiza95955430" target="blank"><img src="https://img.shields.io/twitter/follow/@mdfaiza95955430?logo=twitter&style=for-the-badge" alt="@mdfaiza95955430" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"			
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java, python**
 
@@ -16,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mdfaiza95955430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdfaiza95955430" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/md-faiz-alam-52906a226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-faiz-alam-52906a226" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-faiz-alam-52906a226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-faiz-alam-52906a226/" height="30" width="40" /></a>
 <a href="https://instagram.com/mdfaiz4242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdfaiz4242" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@mdfaizalam3433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mdfaizalam3433" height="30" width="40" /></a>
 <a href="https://discord.gg/Md Faiz Alam#5006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Md Faiz Alam#5006" height="30" width="40" /></a>
 </p>
 
